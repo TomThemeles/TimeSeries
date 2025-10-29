@@ -1,0 +1,5 @@
+Using Google Colab for Python
+
+Versions Required:
+* NumPy --- 1.3.4
+* Pandas --- 3.2.4
